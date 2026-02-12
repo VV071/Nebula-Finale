@@ -1,0 +1,182 @@
+{
+    "scope": {
+        "global": [
+            "global",
+            "worldwide",
+            "international",
+            "world economy",
+            "cross-border",
+            "multinational"
+        ],
+        "country": [
+            "national",
+            "domestic",
+            "federal",
+            "government",
+            "central bank",
+            "treasury"
+        ],
+        "sector": [
+            "industry",
+            "sector-wide",
+            "market segment"
+        ],
+        "company": [
+            "company",
+            "corporation",
+            "firm",
+            "business",
+            "enterprise"
+        ]
+    },
+    "news_type": {
+        "macro": [
+            "GDP",
+            "inflation",
+            "CPI",
+            "unemployment",
+            "interest rate",
+            "monetary policy",
+            "economic growth",
+            "recession",
+            "consumer spending",
+            "PMI",
+            "jobless claims"
+        ],
+        "earnings": [
+            "earnings",
+            "revenue",
+            "profit",
+            "quarterly results",
+            "EPS",
+            "guidance",
+            "beat estimates",
+            "miss estimates",
+            "outlook"
+        ],
+        "policy": [
+            "regulation",
+            "policy",
+            "central bank",
+            "Fed",
+            "ECB",
+            "legislation",
+            "tax",
+            "tariff",
+            "sanctions",
+            "compliance"
+        ],
+        "geopolitical": [
+            "war",
+            "conflict",
+            "election",
+            "trade war",
+            "diplomatic",
+            "sanctions",
+            "military",
+            "political crisis",
+            "coup"
+        ],
+        "corporate": [
+            "merger",
+            "acquisition",
+            "M&A",
+            "CEO",
+            "CFO",
+            "leadership",
+            "restructuring",
+            "IPO",
+            "bankruptcy",
+            "divestiture",
+            "product launch"
+        ],
+        "sentiment": [
+            "investor sentiment",
+            "market mood",
+            "confidence",
+            "outlook",
+            "forecast",
+            "optimism",
+            "pessimism",
+            "survey"
+        ]
+    },
+    "impact": {
+        "positive": [
+            "growth",
+            "surge",
+            "rally",
+            "gain",
+            "jump",
+            "soar",
+            "beat",
+            "exceed",
+            "outperform",
+            "boost",
+            "strong",
+            "robust",
+            "positive",
+            "optimistic",
+            "bullish"
+        ],
+        "negative": [
+            "decline",
+            "fall",
+            "plunge",
+            "drop",
+            "crash",
+            "miss",
+            "underperform",
+            "weak",
+            "poor",
+            "disappointing",
+            "bearish",
+            "recession",
+            "crisis",
+            "default",
+            "bankruptcy"
+        ],
+        "neutral": [
+            "stable",
+            "steady",
+            "unchanged",
+            "flat",
+            "maintain",
+            "hold"
+        ],
+        "unclear": [
+            "uncertain",
+            "unclear",
+            "mixed",
+            "volatile",
+            "unpredictable"
+        ]
+    },
+    "time_horizon": {
+        "short": [
+            "today",
+            "this week",
+            "immediate",
+            "near-term",
+            "short-term",
+            "intraday",
+            "daily"
+        ],
+        "medium": [
+            "this quarter",
+            "next quarter",
+            "coming months",
+            "medium-term",
+            "H1",
+            "H2"
+        ],
+        "long": [
+            "this year",
+            "next year",
+            "long-term",
+            "structural",
+            "secular",
+            "decade"
+        ]
+    }
+}

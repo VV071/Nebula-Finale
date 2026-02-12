@@ -1,0 +1,111 @@
+{
+    "Technology": [
+        "tech",
+        "software",
+        "AI",
+        "artificial intelligence",
+        "semiconductor",
+        "chip",
+        "cloud computing",
+        "SaaS",
+        "hardware",
+        "electronics",
+        "cybersecurity",
+        "data center"
+    ],
+    "Finance": [
+        "bank",
+        "banking",
+        "financial services",
+        "fintech",
+        "insurance",
+        "asset management",
+        "investment",
+        "capital markets",
+        "trading",
+        "brokerage",
+        "credit"
+    ],
+    "Energy": [
+        "oil",
+        "gas",
+        "petroleum",
+        "renewable",
+        "solar",
+        "wind",
+        "utilities",
+        "electricity",
+        "coal",
+        "nuclear",
+        "energy sector"
+    ],
+    "Healthcare": [
+        "pharma",
+        "pharmaceutical",
+        "biotech",
+        "biotechnology",
+        "medical device",
+        "hospital",
+        "health insurance",
+        "clinical",
+        "drug",
+        "vaccine"
+    ],
+    "Consumer": [
+        "retail",
+        "e-commerce",
+        "consumer goods",
+        "FMCG",
+        "food",
+        "beverage",
+        "apparel",
+        "fashion",
+        "automotive",
+        "auto"
+    ],
+    "Communication": [
+        "telecom",
+        "telecommunication",
+        "media",
+        "entertainment",
+        "streaming",
+        "broadcasting",
+        "wireless",
+        "5G"
+    ],
+    "Industrial": [
+        "manufacturing",
+        "aerospace",
+        "defense",
+        "construction",
+        "machinery",
+        "industrial equipment",
+        "transportation",
+        "logistics"
+    ],
+    "Materials": [
+        "mining",
+        "metals",
+        "chemicals",
+        "paper",
+        "packaging",
+        "steel",
+        "aluminum",
+        "copper"
+    ],
+    "Real Estate": [
+        "property",
+        "real estate",
+        "REIT",
+        "commercial property",
+        "residential",
+        "housing",
+        "construction"
+    ],
+    "Utilities": [
+        "electric utility",
+        "water",
+        "waste management",
+        "infrastructure"
+    ]
+}
