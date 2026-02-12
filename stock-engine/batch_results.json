@@ -1,0 +1,74 @@
+[
+  {
+    "symbol": "RELIANCE",
+    "exchange": "NSE",
+    "price": {
+      "current": "Unavailable",
+      "change_percent": "Unavailable",
+      "history": {
+        "1D": [],
+        "14D": [],
+        "1Y": []
+      }
+    },
+    "fundamentals": {
+      "revenue": "Unavailable",
+      "net_profit": "Unavailable",
+      "debt": "Unavailable",
+      "pe_ratio": "Unavailable",
+      "market_cap": "Unavailable",
+      "sector": "Unavailable"
+    },
+    "technicals": {
+      "rsi": "Unavailable",
+      "macd": "Unavailable",
+      "ma_20": "Unavailable",
+      "ma_50": "Unavailable",
+      "ma_200": "Unavailable",
+      "volatility": "Unavailable"
+    },
+    "signals": {
+      "trend": "Unavailable",
+      "valuation": "Unavailable",
+      "risk": "Unavailable",
+      "momentum": "Unavailable"
+    },
+    "last_updated": "2026-02-11T13:37:21.827142Z"
+  },
+  {
+    "symbol": "TCS",
+    "exchange": "NSE",
+    "price": {
+      "current": "Unavailable",
+      "change_percent": "Unavailable",
+      "history": {
+        "1D": [],
+        "14D": [],
+        "1Y": []
+      }
+    },
+    "fundamentals": {
+      "revenue": "Unavailable",
+      "net_profit": "Unavailable",
+      "debt": "Unavailable",
+      "pe_ratio": "Unavailable",
+      "market_cap": "Unavailable",
+      "sector": "Unavailable"
+    },
+    "technicals": {
+      "rsi": "Unavailable",
+      "macd": "Unavailable",
+      "ma_20": "Unavailable",
+      "ma_50": "Unavailable",
+      "ma_200": "Unavailable",
+      "volatility": "Unavailable"
+    },
+    "signals": {
+      "trend": "Unavailable",
+      "valuation": "Unavailable",
+      "risk": "Unavailable",
+      "momentum": "Unavailable"
+    },
+    "last_updated": "2026-02-11T13:37:46.324724Z"
+  }
+]
